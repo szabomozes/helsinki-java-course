@@ -1,19 +1,32 @@
+#############################
+# Java Build Artifacts
+#############################
+
 # Compiled class files
 *.class
 
-# Logs
-*.log
+# Package files
+*.jar
+*.war
+*.ear
 
-# BlueJ files
-*.ctxt
+# Maven build directory
+target/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
-*.jar
-*.war
-*.ear
+
+#############################
+# Logs
+#############################
+
+*.log
+
+
+#############################
+# IDE Settings
+#############################
 
 # IntelliJ IDEA
 .idea/
@@ -29,3 +42,14 @@ bin/
 
 # VS Code
 .vscode/
+
+
+#############################
+# Miscellaneous
+#############################
+
+# macOS
+.DS_Store
+
+# BlueJ
+*.ctxt
