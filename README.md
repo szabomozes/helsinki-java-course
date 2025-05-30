@@ -6,7 +6,8 @@ As part of my personal development and academic growth, I’m taking part in the
 
 This repository documents my journey, including completed exercises, personal notes, and key takeaways from each section of the course.
 
-**_📅 Start date:_**
+**_📅 Start date:_** *31 May 2025*
+
 
 ## 📖 About the Course
 
