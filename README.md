@@ -32,7 +32,7 @@ Certificate: [View Certificate](https://certificates.mooc.fi/validate/rzucngr052
 Certificate: _in progress..._
 
 
-Each part contains theory, examples, and a set of programming assignments. Estimated time per part: **5–20 hours**, depending on experience.
+Each part contains theory, examples, and a set of programming assignments. Estimated time per part: **5–20 hours**.
 
 ---
 
