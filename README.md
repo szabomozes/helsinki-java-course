@@ -1,4 +1,4 @@
-# 📚 University of Helsinki - Java Programming I-II
+# 📚 University of Helsinki - Java Programming I-II    
 
 
 Hi! I'm Mózes Szabó, a Computer Science student at ELTE University.
